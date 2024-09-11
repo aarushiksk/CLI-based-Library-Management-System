@@ -1,0 +1,6 @@
+2024-09-11 20:35:37.878 | INFO     | __main__:main:46 - Initializing database...
+2024-09-11 20:35:37.881 | INFO     | __main__:main:50 - Database initialized successfully.
+2024-09-11 20:35:45.977 | INFO     | __main__:main:59 - User 1 trying to log in as admin.
+2024-09-11 20:35:45.979 | INFO     | __main__:main:63 - Admin verified
+2024-09-11 20:51:55.153 | INFO     | __main__:main:46 - Initializing database...
+2024-09-11 20:51:55.157 | INFO     | __main__:main:50 - Database initialized successfully.
