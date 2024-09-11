@@ -32,4 +32,4 @@
 
 ### Data Flow diagram:
 
-   <img width="653" alt="image" src="[https://github.com/aarushiksk/CLI-based_Library-Management-System/Data Flow Diagram.jpeg](https://github.com/aarushiksk/CLI-based-Library-Management-System/blob/main/Data%20Flow%20Diagram.jpeg](https://github.com/aarushiksk/CLI-based-Library-Management-System/blob/main/Data%20Flow%20Diagram.jpeg)">
+   <img alt="image" src="https://github.com/aarushiksk/CLI-based-Library-Management-System/blob/main/Data%20Flow%20Diagram.jpeg">
