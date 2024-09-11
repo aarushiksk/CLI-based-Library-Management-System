@@ -29,3 +29,7 @@
      
 7. storage.py:
    - Takes in CSV and JSON files as well as saves them back to the local PC
+
+### Data Flow diagram:
+
+   <img width="653" alt="image" src="https://github.com/aarushiksk/CLI-based_Library-Management-System/Data Flow Diagram.jpeg">
